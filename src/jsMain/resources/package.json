@@ -1,0 +1,7 @@
+{
+  "name": "redux-obserable-kotlin",
+  "author": "Nethan Meynaert",
+  "dependencies": {
+    "kotlin": ""
+  }
+}
